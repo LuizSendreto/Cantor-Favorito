@@ -1,4 +1,5 @@
 body {
+background-color: black;
 background-image:url(assets/gettyimages-1469874523-640x640.jpg);
 background-repeat: no-repeat;
 background-size: cover;
@@ -6,11 +7,34 @@ color: azure;
 
 }
 
+main h3{
+    text-align: center;
+}
+
+main h5{
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+}
+
+main div {
+    text-align: center;
+    color: blanchedalmond
+}
+
+main div h5{
+    text-align: center;
+}
+
+
 img {
-    height: 400px;
-    border: 3px antiquewhite;
-    border-radius: 50px;
-    padding-left: 650px;
+    container;
+    height: 350px;
+    border: 10px antiquewhite;
+    border-radius: 30px;
+    padding-right: 170px;
+    
 }
 
 h1{
@@ -29,3 +53,17 @@ footer p{
     padding: 50px;
 
 }
+
+containter image{
+    .container-imagens {
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
+}
+
+.container-imagens img {
+    max-width: 100%; 
+    height: auto;
+}
+}
+
