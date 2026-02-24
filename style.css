@@ -1,5 +1,5 @@
 body {
-background-image:url(assets/lalalalala.jpg);
+background-image:url(assets/pexels-adrien-olichon-1257089-2387793.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 color: azure;
@@ -24,7 +24,6 @@ main div {
 
 main div {
     text-align: center;
-    color: azure;
 }
 
 
@@ -65,5 +64,16 @@ containter image{
     max-width: 100%; 
     height: auto;
 }
+}
+
+main a{
+    color: rgb(248, 209, 34);
+}
+
+img div{
+    border: color white;
+    border-radius: 10px;
+    border-bottom: 2px;
+
 }
 
