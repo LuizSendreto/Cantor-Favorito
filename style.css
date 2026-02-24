@@ -1,5 +1,5 @@
 body {
-background-image:url(assets/gettyimages-1469874523-640x640.jpg);
+background-image:url(assets/wallpapeprprp.avif);
 background-repeat: no-repeat;
 background-size: cover;
 color: azure;
@@ -19,11 +19,12 @@ main h5{
 
 main div {
     text-align: center;
-    color: blanchedalmond
+    color: whitesmoke;
 }
 
-main div h5{
+main div {
     text-align: center;
+    color: azure;
 }
 
 
@@ -57,7 +58,7 @@ containter image{
     .container-imagens {
     display: flex; 
     justify-content: center; 
-    gap: 10px; 
+    gap: 100px; 
 }
 
 .container-imagens img {
